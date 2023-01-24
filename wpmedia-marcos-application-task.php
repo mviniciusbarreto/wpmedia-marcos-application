@@ -76,7 +76,7 @@ if ( function_exists( 'rocket_get_purge_urls' ) ) {
 print_r( $returned_urls );
 
 /*
-* Of course this is just a sample implementation taking WPRocket core code
+* Of course this is just a sample implementation taking WPRocket core code as base.
 * In a real scenario, I would be more specific and detailed in order to help customers
 * and my team members to get the job done effectively.
 */
